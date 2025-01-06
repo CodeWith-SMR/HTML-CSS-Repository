@@ -1,2 +1,2 @@
-# HTML-CSS-Repository
+# HTML-CSS-Project
 Design: CodeWithSMR
