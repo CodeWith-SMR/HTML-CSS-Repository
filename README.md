@@ -64,11 +64,11 @@ Simply open the `index.html` file in your favorite web browser and explore the d
 
 ## 📧 Contact
 
-🌐 **🌍 Website:** [CodeWithSMR](#) *(Add your website link here)*  
-🎥 **📺 YouTube:** [CodeWithSMR](#) *(Add your YouTube link here)*  
-🔗 **🔗 LinkedIn:** [Muhammad Raza](#) *(Add your LinkedIn profile link here)*  
-🐦 **🐦 Twitter:** [@CodeWithSMR](#) *(Your Twitter handle, if available)*  
-📘 **📘 Facebook:** [CodeWithSMR](#) *(Add your Facebook link here)*  
-📸 **📸 Instagram:** [@CodeWithSMR](#) *(Add your Instagram handle here)*  
+🌍 Website:** [CodeWithSMR](#) ((https://codewith-smr.github.io/CodeWithSMR/)  
+📺 YouTube:** [CodeWithSMR](#) (https://www.youtube.com/@CodeWithSMR) 
+🔗 LinkedIn:** [Muhammad Raza](#) (https://www.linkedin.com/in/muhammad-raza-653622346/)  
+🐦 Twitter:** [@CodeWithSMR](#) (https://twitter.com/CodeWithSMR)  
+📘 Facebook:** [CodeWithSMR](#) (https://www.facebook.com/profile.php?id=100080933504292) 
+📸 Instagram:** [@CodeWithSMR](#) (https://www.instagram.com/codewithsmrofficial/)
 
 🚀 Let's build something amazing together! Happy coding! 🎨💻
