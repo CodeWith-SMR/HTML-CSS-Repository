@@ -66,7 +66,7 @@ Simply open the `index.html` file in your favorite web browser and explore the d
 
 📩 **Author:** Muhammad Raza ((https://github.com/CodeWithSMR))  
 🌐 **Website:** [CodeWithSMR](#) ((https://codewith-smr.github.io/CodeWithSMR/))  
-🔗 **LinkedIn:** [Muhammad Raza](#) ((https://www.linkedin.com/in/muhammad-raza-653622346/))
-**🐦 **Twitter:** [@CodeWithSMR](#) ((https://twitter.com/CodeWithSMR)) 
+🔗 **LinkedIn:** [Muhammad Raza](#) ((https://www.linkedin.com/in/muhammad-raza-653622346/)) <br/>
+🐦 **Twitter:** [@CodeWithSMR](#) ((https://twitter.com/CodeWithSMR)) 
 
 🚀 Let's build something amazing together! Happy coding! 🎨💻
